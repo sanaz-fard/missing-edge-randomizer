@@ -1,0 +1,9 @@
+numpy
+networkx
+scipy
+
+[advanced]
+python-igraph
+leidenalg
+infomap
+graph-tool
