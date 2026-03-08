@@ -2,6 +2,7 @@
 
 ![Tests](https://github.com/sanaz-fard/missing-edge-randomizer/actions/workflows/tests.yml/badge.svg)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18905580.svg)](https://doi.org/10.5281/zenodo.18905580)
+[![PyPI version](https://img.shields.io/pypi/v/missing-edge-randomizer)](https://pypi.org/project/missing-edge-randomizer/)
 
 **missing-edge-randomizer** is a Python package for studying the
 robustness of graph measures under missing edges. 
