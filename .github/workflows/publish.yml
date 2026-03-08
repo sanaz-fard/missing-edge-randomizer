@@ -10,6 +10,11 @@ jobs:
 
     permissions:
       id-token: write
+      contents: read
+
+    environment:
+      name: pypi
+      url: https://pypi.org/p/missing-edge-randomizer
 
     steps:
       - name: Check out repository
